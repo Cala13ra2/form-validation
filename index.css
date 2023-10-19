@@ -1,0 +1,18 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    
+}
+.form_one{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 400px;
+}
+.form_two{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+    width: 400px;
+}
